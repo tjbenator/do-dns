@@ -2,6 +2,7 @@
 - A dynamically assigned IP address
 - [Composer](https://getcomposer.org/)
 - PHP 5.5.9 (Haven't tested any others)
+- A fancy domain
 - A Digial Ocean account
 
 # Dependencies
