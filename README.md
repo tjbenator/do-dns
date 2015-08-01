@@ -7,6 +7,7 @@
 # Dependencies
 - guzzle/guzzle
 - toin0u/digitalocean-v2
+
 # Installation
 1. Clone this repository: ```git clone https://github.com/tjbenator/do-dns.git```
 2. Change directories: ```cd do-dns```
