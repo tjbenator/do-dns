@@ -6,8 +6,8 @@
 - A Digial Ocean account
 
 # Dependencies
-- guzzle/guzzle
-- toin0u/digitalocean-v2
+- [guzzle/guzzle](https://github.com/guzzle/guzzle)
+- [toin0u/digitalocean-v2](https://github.com/toin0u/DigitalOceanV2)
 
 # Installation
 1. Clone this repository: ```git clone https://github.com/tjbenator/do-dns.git```
