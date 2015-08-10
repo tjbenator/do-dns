@@ -27,7 +27,7 @@ $domainRecords = $domainRecord->getAll($ourdomain);
 $cu = curl_init();
 curl_setopt_array($cu, array(
     CURLOPT_RETURNTRANSFER => 1,
-    CURLOPT_URL => 'http://binarypenguin.net/tools/ExternalIP.php'
+    CURLOPT_URL => 'http://tools.binarypenguin.net/myip.php'
 ));
 $ip = curl_exec($cu);
 
