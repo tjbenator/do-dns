@@ -13,4 +13,5 @@
 1. Clone this repository: ```git clone https://github.com/tjbenator/do-dns.git```
 2. Change directories: ```cd do-dns```
 3. Install dependencies: ```composer install```
-4. Setup crontab. ```crontab -e``` Example: ```0 * * * * /usr/bin/php /home/travis/do-dns/do-dns.php 1>/dev/null 2>/home/travis/do-dns/do-dns.log```
+4. Copy ```config.example.php``` to ```config.php``` and update it's values.
+5. Setup crontab. ```crontab -e``` Example: ```0 * * * * /usr/bin/php /home/travis/do-dns/do-dns.php 1>/dev/null 2>/home/travis/do-dns/do-dns.log```
